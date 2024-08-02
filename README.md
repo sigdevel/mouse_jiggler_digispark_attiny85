@@ -10,9 +10,9 @@
 digispark attiny85 в корпусе:
 ![text](https://github.com/a-shvedov/mouse_jiggler_digispark_attiny85/blob/main/markdown_res/demo_digispark_attiny85_in_case.jpeg)
 
-Визуализация трека за 60 минут работы подключенного джиглера:
+Визуализация трека за 60 минут работы подключенного джиглера (ref_func_sketch_ap12_standart_mode):
 ![text](https://github.com/a-shvedov/mouse_jiggler_digispark_attiny85/blob/main/markdown_res/track_rec_digispark_attiny85.png)
 
-Визуализация трека за 60 минут работы подключенного джиглера, купленного для тестов ранее (ref_func_sketch_ap12_standart_mode).
+Визуализация трека за 60 минут работы подключенного джиглера, купленного для тестов ранее.
 Как видно, движение детерминировано:  
 ![text](https://github.com/a-shvedov/mouse_jiggler_digispark_attiny85/blob/main/markdown_res/track_rec_bought_jiggler.png)
