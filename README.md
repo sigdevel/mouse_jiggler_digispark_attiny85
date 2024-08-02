@@ -1,6 +1,6 @@
 # mouse_jiggler_digispark_attiny85
 
-Привет, это простая реализация двигателя курсора (mouse jiggler). Здесь вы найдете:
+Это простая реализация двигателя курсора (mouse jiggler). Здесь вы найдете:
 - файл с кодом проекта;
 - комбинированный stl-файл для печати кейса на 3д принтере (накладка+крышка);
 - метрики для сравнения с аналогичным коммерческим жиглером
@@ -13,5 +13,6 @@ digispark attiny85 в корпусе:
 Визуализация трека за 60 минут работы подключенного джиглера:
 ![text](https://github.com/a-shvedov/mouse_jiggler_digispark_attiny85/blob/main/markdown_res/track_rec_digispark_attiny85.png)
 
-Визуализация трека за 60 минут работы подключенного джиглера, купленного для тестов ранее. Как видно, движение детерминировано:  
+Визуализация трека за 60 минут работы подключенного джиглера, купленного для тестов ранее (ref_func_sketch_ap12_standart_mode).
+Как видно, движение детерминировано:  
 ![text](https://github.com/a-shvedov/mouse_jiggler_digispark_attiny85/blob/main/markdown_res/track_rec_bought_jiggler.png)
