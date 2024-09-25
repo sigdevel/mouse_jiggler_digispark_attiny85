@@ -33,7 +33,7 @@ void loop() {
   moveMouse(-randomRight, randomUp, 55);
 
   // Пауза перед перемещением
-  DigiMouse.delay(random(500, 2000));
+  DigiMouse.delay(random(2000, 12000));
 
   // Переместить курсор в случайное место на экране
   moveMouse(random(0, 1920), random(0, 1080), 3000);
