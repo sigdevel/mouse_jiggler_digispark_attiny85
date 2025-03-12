@@ -1,18 +1,18 @@
 # mouse_jiggler_digispark_attiny85
 
-Это простая реализация двигателя курсора (mouse jiggler). Здесь вы найдете:
-- файл с кодом проекта;
-- комбинированный stl-файл для печати кейса на 3д принтере (накладка+крышка);
-- метрики для сравнения с аналогичным коммерческим жиглером
+This is a simple implementation of a cursor engine (mouse jiggler). Here you will find:
+- project code file ;
+- a combined stl file for printing the case on a 3d printer (cover+lid) ;
+- metrics for comparison with a similar commercial jiggler
 
 [![](https://github.com/a-shvedov/mouse_jiggler_digispark_attiny85/blob/main/markdown_res/340x340_demo_light_digispark_attiny85.jpeg)](https://github.com/a-shvedov/mouse_jiggler_digispark_attiny85/blob/main/markdown_res/demo_light_digispark_attiny85.mp4)
 
 digispark attiny85 в корпусе:
 ![text](https://github.com/a-shvedov/mouse_jiggler_digispark_attiny85/blob/main/markdown_res/demo_digispark_attiny85_in_case.jpeg)
 
-Визуализация трека за 60 минут работы подключенного джиглера (ref_func_sketch_ap12_standart_mode):
+Track visualization for 60 minutes of the connected jiggler (ref_func_sketch_ap12_standart_mode):
 ![text](https://github.com/a-shvedov/mouse_jiggler_digispark_attiny85/blob/main/markdown_res/track_rec_digispark_attiny85.png)
 
-Визуализация трека за 60 минут работы подключенного джиглера, купленного для тестов ранее.
-Как видно, движение детерминировано:  
+Visualization of the track for 60 minutes of operation of the connected jiggler bought for tests earlier.
+As can be seen, the movement is deterministic: 
 ![text](https://github.com/a-shvedov/mouse_jiggler_digispark_attiny85/blob/main/markdown_res/track_rec_bought_jiggler.png)
